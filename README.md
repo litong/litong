@@ -2,7 +2,7 @@
 
 Hi, I’m Mason! I’m a software engineer who is passionate about doing **simplifying things**.
 
-🌍 你可以在下面找到我：
+🌍 Find me on the web:
 
 - Tweets: [@masonlitong](https://twitter.com/masonlitong)
 - Blog: [blog.litong.dev](https://litong.dev)
