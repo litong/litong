@@ -5,4 +5,4 @@ Hi, I’m Mason! I’m a software engineer who is passionate about doing **simpl
 🌍 Find me on the web:
 
 - Tweets: [@masonlitong](https://twitter.com/masonlitong)
-- Blog: [blog.litong.dev](https://litong.dev)
+- Blog: [litong.dev](https://litong.dev)
