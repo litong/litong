@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Hi, I’m Mason! I’m a software engineer who is passionate about doing **simplifying things**.
+Hi, I’m Mason! I’m a software engineer who is passionate about **simplifying things**.
 
 🌍 Find me on the web:
 
