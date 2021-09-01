@@ -18,7 +18,7 @@ Hi, I’m Tong a Software Developer from Nanjing, China 🇨🇳
 
 ## GitHub Stats
 
- ![litong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=litong&count_private=true&hide_title=true&show_icons=true&show_icons=true&theme=dark)
+ ![litong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=litong&count_private=true&show_icons=true&show_icons=true&theme=dark)
 
 <!--
 **litong/litong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
