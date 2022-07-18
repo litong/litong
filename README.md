@@ -4,7 +4,7 @@ Hi, I’m Tong a Software Developer from Nanjing, China 🇨🇳
 
 🌍 Find me on the web:
 
-- Tweets: [@masonlitong](https://twitter.com/masonlitong)
+- Tweets: [@mason_litong](https://twitter.com/mason_litong)
 - Blog: [litong.dev](https://litong.dev)
 
 ## My Latest Blog Posts
